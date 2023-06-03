@@ -1,0 +1,51 @@
+
+namespace: is making application id safe
+
+
+
+#1. setting : have feature
+
+
+#2. Worked with 3 modules Fn,Alta,, hub
+1. Import module expertnally
+2. app>Setting>projectStructure> app + add module dependencies
+
+
+
+
+Kapt
+Annotation Processing Tool: Generates code on the annotation
+
+
+
+
+Issue
+1. Didnt add kapt
+2.
+
+
+1.Make Android 26
+Invoke-customs are only supported starting with Android O (--min-api 26)
+
+2. Java version 17
+Pref>BuildExecutionDevelopment>BuildTools>Gradle
+
+3. how to declare variable
+
+4. What is implementation in build.gradle
+
+5. Button: layout height must be 48
+
+6. Use suggestion to upgrade library for kapt ::
+
+
+
+
+
+
+
+
+
+Kotlin:
+
+1. Apply Scoping Function
